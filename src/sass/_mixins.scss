@@ -1,0 +1,7 @@
+@use 'colors' as *;
+
+@mixin navFont {
+	font-size: 4rem;
+	text-transform: uppercase;
+	color: $light-grey;
+}
